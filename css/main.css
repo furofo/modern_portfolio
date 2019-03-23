@@ -278,7 +278,7 @@ main {
   .homepage {
     font-size: 5rem !important;
     text-align: center !important;
-    margin-left: -15rem !important; } }
+    margin-left: -8rem !important; } }
 
 @media screen and (max-width: 500px) {
   main#home h1 {
