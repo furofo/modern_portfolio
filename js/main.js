@@ -36,9 +36,9 @@ function toggleMenu() {
 const projectFourImage = document.querySelector(".project4");
 projectFourImage.addEventListener('mouseover', (event) => {
   console.log("img4 hoverd over", projectFourImage)
-  projectFourImage.src = "img/projects/project4.png"
+  projectFourImage.src = "img/projects/project4.gif"
 });
 projectFourImage.addEventListener('mouseout', (event) => {
   console.log("img4 hoverd over", projectFourImage)
-  projectFourImage.src = "img/projects/project4.png"
+  projectFourImage.src = "img/projects/project4.jpg"
 });
